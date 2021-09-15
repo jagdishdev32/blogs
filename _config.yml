@@ -123,6 +123,12 @@ defaults:
       # to update the code of all other post links in this project.
       permalink: /posts/:title/
   - scope:
+      path: "_posts/git"
+      type: posts
+    values:
+      categories: [git, git-branch, cheatsheet]
+      tags: [git, git-branch, cheatsheet]
+  - scope:
       path: "_posts/databases"
       type: posts
     values:
