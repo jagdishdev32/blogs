@@ -123,6 +123,12 @@ defaults:
       # to update the code of all other post links in this project.
       permalink: /posts/:title/
   - scope:
+      path: "_posts/jekyll"
+      type: posts
+    values:
+      categories: [jekyll, notes]
+      tags: [jekyll, notes]
+  - scope:
       path: "_posts/git"
       type: posts
     values:
