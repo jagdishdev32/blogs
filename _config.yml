@@ -123,6 +123,18 @@ defaults:
       # to update the code of all other post links in this project.
       permalink: /posts/:title/
   - scope:
+      path: "_posts/databases"
+      type: posts
+    values:
+      categories: [databases, sql, mysql]
+      tags: [databases, sql, mysql, cheatsheet, notes]
+  - scope:
+      path: "_posts/docker" # An empty string here means all files in the project
+      type: posts
+    values:
+      categories: [DevOps, Docker, Docker-Compose]
+      tags: [DevOps, Docker, Docker-Compose]
+  - scope:
       path: _drafts
     values:
       comments: false
