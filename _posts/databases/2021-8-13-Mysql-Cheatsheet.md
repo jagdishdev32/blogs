@@ -1,3 +1,7 @@
+---
+categories: [sql, mysql]
+---
+
 # MySQL Database
 
 {% raw %}

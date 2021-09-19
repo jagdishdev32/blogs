@@ -138,8 +138,8 @@ defaults:
       path: "_posts/databases"
       type: posts
     values:
-      categories: [databases, sql, mysql]
-      tags: [databases, sql, mysql, cheatsheet, notes]
+      categories: [databases]
+      tags: [databases, cheatsheet, notes]
   - scope:
       path: "_posts/docker" # An empty string here means all files in the project
       type: posts
