@@ -4,7 +4,7 @@ icon: fas fa-info
 order: 4
 ---
 
-These posts are personal blogs / cheatsheets / writeup's by **Jagish Dev aka Jatin**
+These posts are personal blogs / cheatsheets / writeup's by **Jagdish Dev aka Jatin**
 
 For topic's related to
 
